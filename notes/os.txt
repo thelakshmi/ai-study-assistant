@@ -1,0 +1,50 @@
+WHAT OPERATING SYSTEM DO
+• An OS is an intermediary between the user of the computer & the computer hardware.
+• It provides a basis for application program & acts as an intermediary between user of computer & 
+computer hardware.
+• The purpose of an OS is to provide a environment in which the user can execute the program in a 
+convenient & efficient manner.
+• OS is an important part of almost every computer systems. A computer system can be roughly 
+divided into four components
+o The Hardware
+o The OS
+o The application Program
+o The user
+• The Hardware consists of memory, CPU, ALU, I/O devices, peripherals devices & storage 
+devices.
+• The application program mainly consisted of word processors, spread sheets, compilers & web 
+browsers defines the ways in which the resources are used to solve the problems of the users.
+• The OS controls & co-ordinates the use of hardware among various application program for 
+various users.
+Computer system can be divided roughly into four components: the hardware, the operating system, the 
+application programs, and the users
+The operating system provides the means for proper use of these resources in the operation of the computer 
+system. An operating system is similar to a government. Like a government, it performs no useful function 
+by itself. It simply provides an environment within which other programs can do useful work. To understand 
+more fully the operating system's role, we next explore operating systems from two viewpoints: that of the 
+user and that of the system.
+User Views:-
+• The user view of the computer depends on the interface used. Some users may use PC’s.
+• In this the system is designed so that only one user can utilize the resources and mostly for ease of 
+use where the attention is mainly on performances and not on the resource utilization.
+• Some users may use a terminal connected to a mainframe or minicomputers.
+• Other users may access the same computer through other terminals. These users may share resources 
+and exchange information. In this case the OS is designed to maximize resource utilization-so that all 
+available CPU time, memory & I/O are used efficiently.
+• Other users may sit at workstations, connected to the networks of other workstation and servers. In this 
+case OS is designed to compromise between individual visibility & resource utilization.
+System Views:-
+• We can view system as resource allocator i.e. a computer system has many resources that may be used 
+to solve a problem. The OS acts as a manager of these resources. The OS must decide how to allocate 
+these resources to programs and the users so that it can operate the computer system efficiently and 
+fairly.
+• A different view of an OS is that it need to control various I/O devices & user programs i.e. an OS is a 
+control program used to manage the execution of user program to prevent errors and improper use of 
+the computer.
+• Resources can be either CPU Time, memory space, file storage space, I/O devices and so on. The OS 
+must support the following tasks.
+o Provide the facility to create, modification of programs & data files using on editors.
+o Access to compilers for translating the user program from high level language to machine 
+language.
+o Provide a loader program to move the compiled program code to computers memory for 
+execution.
